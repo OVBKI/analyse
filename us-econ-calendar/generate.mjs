@@ -64,7 +64,6 @@ function stat(label,val,extra=''){
 function eventCard(e){
   const imp = IMPACT[e.impact] || IMPACT.eleve;
   const icon = ICON[e.cat] || ICON.defaut;
-  const released = e.actual && e.actual!=='—';
   return `
   <div class="card imp-${e.impact}" style="--heat:${imp.c}">
     <div class="card-spine"></div>
@@ -82,7 +81,7 @@ function eventCard(e){
     <div class="card-bot">
       ${stat('PRÉCÉDENT', e.prev)}
       ${stat('CONSENSUS', e.cons)}
-      ${stat(released?'PUBLIÉ':'ACTUEL', released?e.actual:'—', released?' '+surprise(e.actual,e.cons):'')}
+      <div class="spacer"></div>
       <div class="heatpill" style="--heat:${imp.c}"><i></i>${imp.name}</div>
     </div>
   </div>`;
@@ -186,9 +185,10 @@ html,body{background:#04060a;font-family:'Archivo',sans-serif;-webkit-font-smoot
 .sess{position:absolute;top:16px;right:16px;display:flex;align-items:center;gap:5px;font-size:10px;font-weight:700;letter-spacing:.06em;padding:5px 9px;border-radius:20px;white-space:nowrap}
 .sess.time{color:#bcd3ff;background:rgba(90,130,220,.14);border:1px solid rgba(120,150,230,.32);font-family:'IBM Plex Mono',monospace}
 .card-bot{display:flex;align-items:center;gap:12px;padding:12px 16px 15px 20px;border-top:1px solid rgba(255,255,255,.05);background:linear-gradient(180deg,transparent,rgba(0,0,0,.18))}
-.st{flex:1;min-width:0}
+.st{flex:0 0 auto;min-width:112px}
+.spacer{flex:1;min-width:8px}
 .stl{font-size:8.5px;letter-spacing:.14em;color:var(--mut);font-weight:600}
-.stv{font-family:'IBM Plex Mono',monospace;font-size:17px;font-weight:600;color:#fff;margin-top:5px;white-space:nowrap}
+.stv{font-family:'IBM Plex Mono',monospace;font-size:18px;font-weight:600;color:#fff;margin-top:5px;white-space:nowrap}
 .st-empty .stv{color:#4d586b}
 .arw{font-size:12px;margin-left:1px}
 .arw.dn{color:#2fd666}.arw.up{color:#ff5b52}.arw.eq{color:var(--mut)}
@@ -252,8 +252,8 @@ html,body{background:#04060a;font-family:'Archivo',sans-serif;-webkit-font-smoot
       <div class="dh">Disclaimer</div>
       <ul>
         <li>La <b style="color:#cfd8e6">couleur de fond</b> reflète l'<b style="color:#cfd8e6">impact marché attendu</b> (Élevé = orange, Critique = rouge). Seules les annonces <b style="color:#cfd8e6">américaines à fort impact</b> sont affichées ; les données non-US et à impact faible/moyen sont exclues.</li>
-        <li>Les <b style="color:#cfd8e6">horaires</b> (US Eastern) et les valeurs <b style="color:#cfd8e6">précédent / consensus / publié</b> sont estimés et doivent être vérifiés auprès des sources officielles (BLS, Census, Réserve fédérale) avant toute décision.</li>
-        <li>La flèche indique l'écart du chiffre publié par rapport au consensus. Ce document est informatif et <b style="color:#cfd8e6">ne constitue pas un conseil en investissement</b>.</li>
+        <li>Les <b style="color:#cfd8e6">horaires</b> (US Eastern) et les valeurs <b style="color:#cfd8e6">précédent / consensus</b> sont estimés et doivent être vérifiés auprès des sources officielles (BLS, Census, Réserve fédérale) avant toute décision.</li>
+        <li>Calendrier <b style="color:#cfd8e6">prévisionnel de la semaine</b> : seules les attentes (consensus) sont affichées, pas les chiffres publiés. Document informatif — <b style="color:#cfd8e6">ne constitue pas un conseil en investissement</b>.</li>
       </ul>
     </div>
     <div class="sig">

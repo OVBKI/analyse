@@ -15,8 +15,8 @@ de la semaine, même charte que le calendrier des résultats QQQ.
 ## Lecture
 
 - Regroupement **par jour** (lundi → vendredi), **heures en US Eastern (ET)**.
-- Chaque carte : code + catégorie, intitulé, heure, **Précédent / Consensus / Publié**
-  (flèche = écart du chiffre publié vs consensus), et **pastille d'impact**.
+- Chaque carte : code + catégorie, intitulé, heure, **Précédent / Consensus** et **pastille d'impact**.
+- Vue **prévisionnelle** : les chiffres publiés (résultats à la sortie) ne sont pas affichés — à poster en amont de la semaine.
 - **Heatmap = impact marché attendu** : Élevé (orange) → Critique (rouge). Légende incluse.
 
 ## Utilisation
@@ -47,8 +47,7 @@ Prérequis identiques au calendrier QQQ (node, Chromium auto-détecté, Pillow a
           "time": "08:30 ET",
           "impact": "critique",     // "critique" (rouge) | "eleve" (orange)
           "prev": "4,2%",           // précédent (ou "—")
-          "cons": "3,8%",           // consensus (ou "—")
-          "actual": "3,5%"          // publié si connu, sinon "—" -> affiche "ACTUEL —"
+          "cons": "3,8%"            // consensus (ou "—")
         }
       ]
     }
