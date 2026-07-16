@@ -1,0 +1,20 @@
+{
+  "brandSub": "Calendrier des résultats · Nasdaq-100 (QQQ)",
+  "weekLabelTop": "Semaine en cours",
+  "weekRange": "13&nbsp;<em>–</em>&nbsp;17 JUIL. 2026",
+  "weekMeta": "Semaine 29 · Saison Q2 2026 · Fuseau US Eastern",
+  "generated": "16 juil. 2026",
+  "days": [
+    { "d": "LUN", "date": "13", "mon": "JUIL", "note": "Aucune publication majeure", "qqq": [], "ghost": [] },
+    { "d": "MAR", "date": "14", "mon": "JUIL", "note": "Publications hors Nasdaq-100 uniquement", "qqq": [],
+      "ghost": ["JPM", "GS", "BAC", "C", "WFC"], "ghostNote": "Banques NYSE · avant ouverture" },
+    { "d": "MER", "date": "15", "mon": "JUIL", "qqq": [
+        { "ticker": "ASML", "name": "ASML Holding N.V.", "sector": "Semi-conducteurs · Équipements", "weight": 0.85, "brand": "#0a5cb8", "domain": "asml.com", "session": "bmo" },
+        { "ticker": "UAL", "name": "United Airlines Holdings", "sector": "Transport aérien", "weight": 0.15, "brand": "#0d4c8a", "domain": "united.com", "session": "amc" }
+      ], "ghost": ["MS", "BLK", "BK", "JNJ", "KMI"], "ghostNote": "Hors QQQ · même semaine" },
+    { "d": "JEU", "date": "16", "mon": "JUIL", "qqq": [
+        { "ticker": "NFLX", "name": "Netflix, Inc.", "sector": "Médias · Streaming", "weight": 1.34, "brand": "#e50914", "domain": "netflix.com", "session": "amc" }
+      ], "ghost": ["TSM"], "ghostNote": "TSMC (NYSE) · avant ouverture" },
+    { "d": "VEN", "date": "17", "mon": "JUIL", "note": "Aucune publication majeure", "qqq": [], "ghost": [] }
+  ]
+}

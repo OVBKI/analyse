@@ -1,0 +1,8 @@
+# build artifacts
+index.html
+.raw.png
+.logo_*
+mb_trading_calendrier.png
+test-output.png
+*.img
+*.datauri
