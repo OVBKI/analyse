@@ -47,6 +47,17 @@ const ICON = {
 const catLabel = { inflation:'INFLATION', fed:'BANQUE CENTRALE', conso:'CONSOMMATION', emploi:'EMPLOI', industrie:'INDUSTRIE' };
 const clockIcon = `<svg viewBox="0 0 24 24" width="12" height="12" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>`;
 
+// Convertit une heure US Eastern ("08:30 ET") en heure de Paris (+6 h ; valable toute
+// l'année sauf brèves fenêtres de bascule d'heure d'été décalées US/UE).
+function toParis(t){
+  if(!t) return '';
+  const m = String(t).match(/(\d{1,2}):(\d{2})/);
+  if(!m) return t;
+  if(!/\bE[SD]?T\b/i.test(t)) return String(t).replace(/\s*paris\s*/i,'').trim();
+  const h = (parseInt(m[1],10) + 6) % 24;
+  return `${String(h).padStart(2,'0')}:${m[2]}`;
+}
+
 function num(s){ if(s==null) return null; const m=String(s).replace(/ /g,'').replace(',','.').match(/-?\d+(\.\d+)?/); return m?parseFloat(m[0]):null; }
 function surprise(actual,cons){
   const a=num(actual), c=num(cons);
@@ -76,7 +87,7 @@ function eventCard(e){
         <div class="cname">${e.name}</div>
         <div class="csector">${e.detail||''}</div>
       </div>
-      <div class="sess time">${clockIcon}<span>${e.time||''}</span></div>
+      <div class="sess time">${clockIcon}<span>${toParis(e.time)}</span></div>
     </div>
     <div class="card-bot">
       ${stat('PRÉCÉDENT', e.prev)}
@@ -252,7 +263,7 @@ html,body{background:#04060a;font-family:'Archivo',sans-serif;-webkit-font-smoot
       <div class="dh">Disclaimer</div>
       <ul>
         <li>La <b style="color:#cfd8e6">couleur de fond</b> reflète l'<b style="color:#cfd8e6">impact marché attendu</b> (Élevé = orange, Critique = rouge). Seules les annonces <b style="color:#cfd8e6">américaines à fort impact</b> sont affichées ; les données non-US et à impact faible/moyen sont exclues.</li>
-        <li>Les <b style="color:#cfd8e6">horaires</b> (US Eastern) et les valeurs <b style="color:#cfd8e6">précédent / consensus</b> sont estimés et doivent être vérifiés auprès des sources officielles (BLS, Census, Réserve fédérale) avant toute décision.</li>
+        <li>Les <b style="color:#cfd8e6">horaires sont donnés en heure de Paris</b> (convertis depuis l'heure US Eastern, +6 h) et les valeurs <b style="color:#cfd8e6">précédent / consensus</b> sont estimés — à vérifier auprès des sources officielles (BLS, Census, Réserve fédérale) avant toute décision.</li>
         <li>Calendrier <b style="color:#cfd8e6">prévisionnel de la semaine</b> : seules les attentes (consensus) sont affichées, pas les chiffres publiés. Document informatif — <b style="color:#cfd8e6">ne constitue pas un conseil en investissement</b>.</li>
       </ul>
     </div>

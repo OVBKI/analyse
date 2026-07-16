@@ -14,7 +14,7 @@ de la semaine, même charte que le calendrier des résultats QQQ.
 
 ## Lecture
 
-- Regroupement **par jour** (lundi → vendredi), **heures en US Eastern (ET)**.
+- Regroupement **par jour** (lundi → vendredi), **horaires affichés en heure de Paris** (le générateur convertit automatiquement les heures saisies en US Eastern, +6 h).
 - Chaque carte : code + catégorie, intitulé, heure, **Précédent / Consensus** et **pastille d'impact**.
 - Vue **prévisionnelle** : les chiffres publiés (résultats à la sortie) ne sont pas affichés — à poster en amont de la semaine.
 - **Heatmap = impact marché attendu** : Élevé (orange) → Critique (rouge). Légende incluse.
@@ -32,7 +32,7 @@ Prérequis identiques au calendrier QQQ (node, Chromium auto-détecté, Pillow a
 ```jsonc
 {
   "weekRange": "13&nbsp;<em>–</em>&nbsp;17 JUIL. 2026",
-  "weekMeta":  "Semaine 29 · Heures en US Eastern (ET)",
+  "weekMeta":  "Semaine 29 · Heures de Paris (CEST)",
   "generated": "16 juil. 2026",
   "days": [
     {

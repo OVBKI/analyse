@@ -2,7 +2,7 @@
   "brandSub": "Calendrier économique · États-Unis · fort impact",
   "weekLabelTop": "Semaine en cours",
   "weekRange": "13&nbsp;<em>–</em>&nbsp;17 JUIL. 2026",
-  "weekMeta": "Semaine 29 · Heures en US Eastern (ET)",
+  "weekMeta": "Semaine 29 · Heures de Paris (CEST)",
   "generated": "16 juil. 2026",
   "days": [
     { "d": "LUN", "date": "13", "mon": "JUIL", "note": "Aucune donnée US à fort impact", "events": [] },
