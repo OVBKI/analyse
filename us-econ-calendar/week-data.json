@@ -1,0 +1,26 @@
+{
+  "brandSub": "Calendrier économique · États-Unis · fort impact",
+  "weekLabelTop": "Semaine en cours",
+  "weekRange": "13&nbsp;<em>–</em>&nbsp;17 JUIL. 2026",
+  "weekMeta": "Semaine 29 · Heures en US Eastern (ET)",
+  "generated": "16 juil. 2026",
+  "days": [
+    { "d": "LUN", "date": "13", "mon": "JUIL", "note": "Aucune donnée US à fort impact", "events": [] },
+    { "d": "MAR", "date": "14", "mon": "JUIL", "events": [
+        { "code": "CPI", "cat": "inflation", "name": "Inflation CPI — juin", "detail": "Glissement annuel · publié", "time": "08:30 ET", "impact": "critique", "prev": "4,2%", "cons": "3,8%", "actual": "3,5%" }
+      ] },
+    { "d": "MER", "date": "15", "mon": "JUIL", "events": [
+        { "code": "PPI", "cat": "inflation", "name": "Prix à la production PPI — juin", "detail": "Variation mensuelle · publié", "time": "08:30 ET", "impact": "eleve", "prev": "—", "cons": "+0,1%", "actual": "-0,3%" },
+        { "code": "FED", "cat": "fed", "name": "Témoignage semestriel de la Fed", "detail": "Chambre · politique monétaire", "time": "10:00 ET", "impact": "critique", "prev": "—", "cons": "—", "actual": "—" }
+      ] },
+    { "d": "JEU", "date": "16", "mon": "JUIL", "events": [
+        { "code": "RETAIL", "cat": "conso", "name": "Ventes au détail — juin", "detail": "Variation mensuelle · à publier", "time": "08:30 ET", "impact": "critique", "prev": "+0,9%", "cons": "+0,2%", "actual": "—" },
+        { "code": "CLAIMS", "cat": "emploi", "name": "Inscriptions au chômage", "detail": "Hebdomadaire · à publier", "time": "08:30 ET", "impact": "eleve", "prev": "—", "cons": "—", "actual": "—" },
+        { "code": "PHILLY", "cat": "industrie", "name": "Fed de Philadelphie — juillet", "detail": "Indice manufacturier · à publier", "time": "08:30 ET", "impact": "eleve", "prev": "—", "cons": "—", "actual": "—" }
+      ] },
+    { "d": "VEN", "date": "17", "mon": "JUIL", "events": [
+        { "code": "INDPRO", "cat": "industrie", "name": "Production industrielle — juin", "detail": "Variation mensuelle · à publier", "time": "09:15 ET", "impact": "eleve", "prev": "—", "cons": "+0,2%", "actual": "—" },
+        { "code": "UMICH", "cat": "conso", "name": "Confiance conso. U. Michigan", "detail": "Juillet préliminaire · à publier", "time": "10:00 ET", "impact": "eleve", "prev": "—", "cons": "—", "actual": "—" }
+      ] }
+  ]
+}
