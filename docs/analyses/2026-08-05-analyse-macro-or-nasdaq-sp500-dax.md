@@ -332,3 +332,38 @@ Les points suivants n'ont **pas pu être confirmés** avec certitude par une sou
 Ce document est un **rapport d'analyse macroéconomique à but informatif et pédagogique uniquement**. Il ne constitue **en aucun cas un conseil en investissement, une recommandation d'achat ou de vente, ni une sollicitation** à effectuer une quelconque opération financière. Les marchés financiers comportent des risques de perte en capital. Les scénarios et pondérations probabilistes présentés sont des estimations qualitatives et ne garantissent aucun résultat futur. Ce rapport a été rédigé mercredi 5 août 2026 avant l'ouverture de la séance américaine et avant la publication de l'ISM Services de juillet — les niveaux de marché mentionnés sont donc particulièrement susceptibles d'évoluer rapidement, notamment en fonction de l'issue réelle des négociations sur le détroit d'Ormuz. Avant toute décision d'investissement, consultez un conseiller financier agréé et vérifiez les données auprès des sources primaires citées, idéalement en temps réel.
 
 *Rapport généré le 5 août 2026 à partir de recherches web. Toutes les sources sont citées en ligne ; les liens renvoient vers les pages consultées au moment de la rédaction.*
+
+---
+
+## Résumé Telegram
+
+```
+@everyone · 📊 RAPPORT MACRO QUOTIDIEN — 5 août 2026
+
+🔑 CHIFFRES CLÉS
+🥇 Or : ~4 140-4 163 $/oz (+2%, 3ᵉ séance de hausse)
+💻 Nasdaq 100 : 29 733 pts (clôture 04/08, +3,32%, record)
+📈 S&P 500 : 7 737 pts (clôture 04/08, +1,79%, record)
+🇩🇪 DAX 40 : ~26 413 pts intraday (+0,77%, nouveau record)
+🛢️ Brent ~78,9$ / WTI ~75,1$ (3ᵉ séance de repli)
+🏦 Fed 3,50-3,75% (statu quo) · BCE 2,25% (statu quo)
+💵 DXY ~99,82 (-1% sur 1 mois)
+😰 VIX ~16,5 (donnée à recouper, incohérente avec le rallye actions)
+
+🌍 L'ESSENTIEL DU JOUR
+• Rallye massif Wall Street + DAX pour la 2ᵉ séance : records sur S&P 500, Nasdaq 100, Dow (1ère clôture >54 000) et DAX 40
+• Bessent (Trésor US) : accord possible "aujourd'hui ou demain" sur le détroit d'Ormuz, "liberté de circulation" — mais Reuters rapporte que l'Iran voudrait garder le contrôle du trafic entrant
+• Pétrole en repli 3ᵉ séance consécutive sur l'espoir d'un deal
+• Probabilités de hausse Fed en septembre : chute de 82% à ~56-57%
+• JOLTS juin : 7,359M ouvertures, sous consensus — marché du travail toujours "figé"
+• PIB Allemagne T2 : +0,2% (au-dessus du consensus), PMI zone euro au plus haut depuis 2022
+
+🎯 BIAIS PAR ACTIF
+🥇 Or : Haussier — repli des probas Fed + dollar faible l'emportent sur la baisse de la prime géopolitique
+💻 Nasdaq 100 : Haussier à neutre — records portés par résultats solides, attend ISM Services/NFP
+📈 S&P 500 : Haussier à neutre — 1er record en 2 mois, mêmes catalyseurs
+🇩🇪 DAX 40 : Haussier — PIB allemand solide + pétrole en baisse
+
+⚠️ À SURVEILLER
+NFP de juillet (07/08, 8h30 ET) — et avant cela, ISM Services PMI aujourd'hui 10h00 ET + confirmation ou non de l'accord sur le détroit d'Ormuz (écart de récit USA-Iran non résolu)
+```
