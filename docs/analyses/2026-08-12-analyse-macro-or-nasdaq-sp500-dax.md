@@ -1,19 +1,19 @@
 # Rapport Macroéconomique Quotidien — 12 août 2026
 ### Or (XAU/USD) · Nasdaq 100 · S&P 500 · DAX 40
 
-*Rapport produit à partir de recherches Internet effectuées le 12 août 2026 (mercredi), avant/pendant la publication du CPI de juillet à 8h30 ET. Toutes les données sont sourcées ; les points non vérifiés ou divergents entre sources sont listés en section 13. Ceci n'est pas un conseil en investissement (voir avertissement final).*
+*Rapport produit à partir de recherches Internet effectuées le 12 août 2026 (mercredi), avant/pendant la publication du CPI de juillet à 14h30 (heure de Paris). Toutes les données sont sourcées ; les points non vérifiés ou divergents entre sources sont listés en section 13. Ceci n'est pas un conseil en investissement (voir avertissement final).*
 
 ---
 
 ## 1. Résumé exécutif
 
-La séance de ce mercredi est **suspendue à la publication du CPI de juillet** à 8h30 ET, l'événement macro le plus attendu du mois. Au moment de la rédaction, les indices actions américains évoluent en **léger repli, prolongeant la tendance baissière de mardi** : le **S&P 500 recule à 7 735,24 points (-0,32 %)**, le **Nasdaq 100 cède 0,33 % à 29 562,47 points**, et le **Dow Jones perd 0,34 % à 53 793,14 points**, la persistance du pessimisme sur un accord USA-Iran continuant de peser sur le sentiment [Trading Economics](https://tradingeconomics.com/united-states/stock-market). En Europe, le **DAX 40 résiste et progresse à 26 411,70 points (+0,26 %)**, porté notamment par les valeurs financières et industrielles, malgré un contexte externe plus incertain [Trading Economics](https://tradingeconomics.com/germany/stock-market).
+La séance de ce mercredi est **suspendue à la publication du CPI de juillet** à 14h30 (heure de Paris), l'événement macro le plus attendu du mois. Au moment de la rédaction, les indices actions américains évoluent en **léger repli, prolongeant la tendance baissière de mardi** : le **S&P 500 recule à 7 735,24 points (-0,32 %)**, le **Nasdaq 100 cède 0,33 % à 29 562,47 points**, et le **Dow Jones perd 0,34 % à 53 793,14 points**, la persistance du pessimisme sur un accord USA-Iran continuant de peser sur le sentiment [Trading Economics](https://tradingeconomics.com/united-states/stock-market). En Europe, le **DAX 40 résiste et progresse à 26 411,70 points (+0,26 %)**, porté notamment par les valeurs financières et industrielles, malgré un contexte externe plus incertain [Trading Economics](https://tradingeconomics.com/germany/stock-market).
 
 L'**or poursuit son rebond entamé mardi, à 4 391,08 $/once (+0,48 %)**, se rapprochant à nouveau du seuil des 4 400 $, porté par la demande de valeur refuge à l'approche du CPI et par la dégradation persistante du dossier Iran [Trading Economics](https://tradingeconomics.com/commodity/gold). Le **dollar (DXY) reste stable autour de 99,7-99,8** [Trading Economics](https://tradingeconomics.com/united-states/currency), tandis que les **rendements du Trésor se détendent légèrement avant le CPI, le 10 ans reculant à 4,69 %** [Trading Economics](https://tradingeconomics.com/united-states/government-bond-yield).
 
 Sur le dossier géopolitique, la situation reste **très tendue mais sans nouvelle escalade militaire majeure** : Donald Trump a affirmé que les forces américaines sont en « **contrôle total** » du détroit d'Ormuz, alors que la marine américaine a désactivé un cargo battant pavillon panaméen (deux missiles Hellfire visant l'appareil de gouvernail) après qu'il a ignoré des avertissements en tentant de rallier un port iranien [Al Jazeera](https://www.aljazeera.com/news/liveblog/2026/8/12/iran-war-live-us-fires-missiles-at-cargo-ship-violating-iran-blockade). Le Qatar indique que les négociations Oman-Iran sur la réouverture du détroit **progressent nettement**, mais l'accord reste suspendu à des exigences iraniennes fortes (retrait du blocus naval américain, compensation financière, dégel des avoirs, levée des sanctions, fin permanente du conflit) [CBS News](https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-deal/). Trump a par ailleurs signalé un **basculement vers la pression économique plutôt que militaire**, déclarant vouloir « laisser la détresse économique s'installer » en Iran plutôt que de relancer une offensive [CNBC](https://www.cnbc.com/2026/08/10/us-iran-war-trump-hormuz-oman-ships-blockade-shipping.html). Conséquence directe : le **pétrole enchaîne une 5ᵉ séance consécutive de hausse, le Brent à 89,71-89,79 $ (+0,90 % à +0,99 %)** et le **WTI à 83,90 $ (+0,84 %)** [Trading Economics](https://tradingeconomics.com/commodity/brent-crude-oil), [Trading Economics](https://tradingeconomics.com/commodity/crude-oil).
 
-Cette semaine reste dominée par le **CPI de juillet, publié ce jour à 8h30 ET** — le consensus table sur un **headline à +0,1 % m/m / +3,4 % a/a et un Core CPI à +0,2-0,32 % m/m / +2,5 % a/a** [US News](https://www.usnews.com/news/national-news/articles/2026-08-10/july-cpi-could-show-further-easing-in-inflation), [Kiplinger](https://www.kiplinger.com/investing/economy/cpi-report-july-2026-what-to-expect). **Important** : au moment de la rédaction de ce rapport, le résultat effectif du CPI n'a **pas pu être confirmé avec certitude** par une source primaire (BLS) ni recoupé de façon fiable — les recherches font apparaître des chiffres contradictoires et non recoupés entre eux (voir section 2.1 et section 13). JPMorgan a publié une grille de scénarios de réaction du S&P 500 selon le Core CPI m/m : un chiffre supérieur à 0,3 % pourrait entraîner une baisse de 1,5 % à 2,5 % de l'indice, tandis qu'un chiffre inférieur à 0,15 % pourrait déclencher une hausse de 1 % à 2 % [CNBC](https://www.cnbc.com/2026/08/10/how-the-market-may-react-to-julys-cpi-report-according-to-jpmorgan.html).
+Cette semaine reste dominée par le **CPI de juillet, publié ce jour à 14h30 (heure de Paris)** — le consensus table sur un **headline à +0,1 % m/m / +3,4 % a/a et un Core CPI à +0,2-0,32 % m/m / +2,5 % a/a** [US News](https://www.usnews.com/news/national-news/articles/2026-08-10/july-cpi-could-show-further-easing-in-inflation), [Kiplinger](https://www.kiplinger.com/investing/economy/cpi-report-july-2026-what-to-expect). **Important** : au moment de la rédaction de ce rapport, le résultat effectif du CPI n'a **pas pu être confirmé avec certitude** par une source primaire (BLS) ni recoupé de façon fiable — les recherches font apparaître des chiffres contradictoires et non recoupés entre eux (voir section 2.1 et section 13). JPMorgan a publié une grille de scénarios de réaction du S&P 500 selon le Core CPI m/m : un chiffre supérieur à 0,3 % pourrait entraîner une baisse de 1,5 % à 2,5 % de l'indice, tandis qu'un chiffre inférieur à 0,15 % pourrait déclencher une hausse de 1 % à 2 % [CNBC](https://www.cnbc.com/2026/08/10/how-the-market-may-react-to-julys-cpi-report-according-to-jpmorgan.html).
 
 **Chiffres clés du jour :**
 
@@ -33,7 +33,7 @@ Cette semaine reste dominée par le **CPI de juillet, publié ce jour à 8h30 ET
 | US Treasury 10 ans | 4,69 % (12/08) | -0,008 pt (jour) | [Trading Economics](https://tradingeconomics.com/united-states/government-bond-yield) |
 | US Treasury 2 ans | 4,22 % (12/08) | -0,002 pt (jour) | [Trading Economics](https://tradingeconomics.com/united-states/government-bond-yield) |
 | Bund allemand 10 ans | ~3,148-3,149 % (dernière donnée confirmée, ⚠️ non recoupée pour le 12/08) | — | Voir section 13 |
-| CPI juillet (attendu 8h30 ET) | Consensus : +0,1 % m/m / +3,4 % a/a (headline) ; +0,2-0,32 % m/m / +2,5 % a/a (core) | ⚠️ Résultat effectif non confirmé de façon fiable | Voir section 2.1 et 13 |
+| CPI juillet (attendu à 14h30, heure de Paris) | Consensus : +0,1 % m/m / +3,4 % a/a (headline) ; +0,2-0,32 % m/m / +2,5 % a/a (core) | ⚠️ Résultat effectif non confirmé de façon fiable | Voir section 2.1 et 13 |
 
 ---
 
@@ -41,7 +41,7 @@ Cette semaine reste dominée par le **CPI de juillet, publié ce jour à 8h30 ET
 
 ### 2.1 États-Unis
 
-Le **CPI de juillet 2026 est publié aujourd'hui, mercredi 12 août à 8h30 ET** [BLS](https://www.bls.gov/cpi/) — l'événement macro le plus attendu du mois. Dernier chiffre officiellement confirmé : CPI de juin, headline +3,5 % a/a / -0,4 % m/m, Core CPI +2,6 % a/a / 0,0 % m/m [BLS](https://www.bls.gov/news.release/archives/cpi_07142026.htm).
+Le **CPI de juillet 2026 est publié aujourd'hui, mercredi 12 août à 14h30 (heure de Paris)** [BLS](https://www.bls.gov/cpi/) — l'événement macro le plus attendu du mois. Dernier chiffre officiellement confirmé : CPI de juin, headline +3,5 % a/a / -0,4 % m/m, Core CPI +2,6 % a/a / 0,0 % m/m [BLS](https://www.bls.gov/news.release/archives/cpi_07142026.htm).
 
 **Consensus avant publication** : headline CPI attendu à **+0,1 % m/m / +3,4 % a/a** (léger repli depuis 3,5 %) et Core CPI attendu entre **+0,2 % et +0,32 % m/m / +2,5 % a/a** [US News](https://www.usnews.com/news/national-news/articles/2026-08-10/july-cpi-could-show-further-easing-in-inflation), [Kiplinger](https://www.kiplinger.com/investing/economy/cpi-report-july-2026-what-to-expect). Plusieurs économistes (dont Barclays) anticipaient un **rebond possible** de l'inflation lié à la flambée du pétrole (+20 % le mois dernier) [Kiplinger](https://www.kiplinger.com/investing/economy/cpi-report-july-2026-what-to-expect), tandis que des marchés de prédiction pointaient plutôt vers une **lecture toujours modérée** [CNBC](https://www.cnbc.com/2026/08/10/crucial-cpi-report-will-show-tame-inflation-prediction-markets-show.html).
 
@@ -49,7 +49,7 @@ Le **CPI de juillet 2026 est publié aujourd'hui, mercredi 12 août à 8h30 ET**
 
 **Grille de réaction JPMorgan (S&P 500) selon le Core CPI m/m** : > 0,30 % → baisse de 1,5 % à 2,5 % ; < 0,15 % → hausse de 1 % à 2 % [CNBC](https://www.cnbc.com/2026/08/10/how-the-market-may-react-to-julys-cpi-report-according-to-jpmorgan.html).
 
-Le **PPI de juillet sera publié demain, jeudi 13 août 2026 à 8h30 ET**, suivi des **ventes au détail de juillet vendredi 14 août à 8h30 ET** [Kiplinger](https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar).
+Le **PPI de juillet sera publié demain, jeudi 13 août 2026 à 14h30 (heure de Paris)**, suivi des **ventes au détail de juillet vendredi 14 août à 14h30 (heure de Paris)** [Kiplinger](https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar).
 
 **Impact par actif** : le CPI de ce jour est le catalyseur décisif pour les trois actifs — un chiffre chaud validerait le scénario hawkish (hausse Fed en septembre) et pourrait peser sur l'or et les indices tout en soutenant les rendements et le dollar ; un chiffre conforme ou inférieur au consensus raviverait le narratif dovish et pourrait relancer le rallye de l'or et des indices.
 
@@ -74,7 +74,7 @@ Aucune nouvelle publication depuis le NFP de juillet (rapport du 07/08). Rappel 
 | Inscriptions hebdomadaires (semaine du 01/08) | 199 000 | 3ᵉ semaine consécutive sous 200k, série la plus longue depuis 1969 ; moyenne mobile 4 sem. : 198 750 | [Verified Investing / DOL](https://verifiedinvesting.com/blogs/us-economic-metrics/jobless-claims-week-ending-august-1-2026) |
 | Chômage assuré en continu (semaine du 25/07) | 1 801 000 | +24 000 vs semaine précédente | [DOL](https://www.dol.gov/ui/data.pdf) |
 
-**Prochaine publication attendue** : les inscriptions hebdomadaires au chômage (semaine se terminant le 8 août) seront publiées demain jeudi 13 août à 8h30 ET, en même temps que le PPI.
+**Prochaine publication attendue** : les inscriptions hebdomadaires au chômage (semaine se terminant le 8 août) seront publiées demain jeudi 13 août à 14h30 (heure de Paris), en même temps que le PPI.
 
 **Impact par actif** : les inscriptions hebdomadaires toujours très basses (199k, série la plus longue sous 200k depuis 1969) confirment la résilience du marché du travail malgré le NFP négatif de juillet — un facteur qui nourrit l'argument en faveur d'une Fed plus attentiste sur l'inflation que sur l'emploi, contribuant au retour d'un scénario de hausse en septembre.
 
@@ -114,7 +114,7 @@ Aucune nouvelle donnée de croissance macro majeure (PIB, PMI composite) publié
 | ISM Manufacturing US (juillet) | 55,6 % (+2,3 pt vs juin, plus haut niveau depuis mai 2022) ; emploi de retour en expansion (52,8 vs 49,7) | [ISM](https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/pmi/july/) |
 | ISM Services US (juillet) | 54,1 % (vs 54,0 en juin, légèrement sous le consensus de 54,5 %) | [Under30CEO / ISM](https://www.under30ceo.com/ism-services-pmi-july-2026/) |
 
-L'indice ISM Manufacturing de juillet, en nette accélération et avec un retour de l'emploi en zone d'expansion, constitue un signal positif pour la croissance américaine, en contraste avec la faiblesse du NFP du même mois — un découplage à surveiller. L'**indice de confiance des consommateurs de l'Université du Michigan (préliminaire, août)** sera publié vendredi 14 août à 10h ET [FXStreet](https://www.fxstreet.com/economic-calendar/event/608ffc81-99e8-4b1c-b673-633100761034).
+L'indice ISM Manufacturing de juillet, en nette accélération et avec un retour de l'emploi en zone d'expansion, constitue un signal positif pour la croissance américaine, en contraste avec la faiblesse du NFP du même mois — un découplage à surveiller. L'**indice de confiance des consommateurs de l'Université du Michigan (préliminaire, août)** sera publié vendredi 14 août à 16h00 (heure de Paris) [FXStreet](https://www.fxstreet.com/economic-calendar/event/608ffc81-99e8-4b1c-b673-633100761034).
 
 **Impact par actif** : la combinaison d'un ISM manufacturier solide et d'un ISM services résilient plaide pour une économie américaine toujours en expansion, un facteur de soutien pour les indices actions US à moyen terme, indépendamment du bruit à court terme lié au CPI et à l'Iran.
 
@@ -187,11 +187,11 @@ Le dollar reste dans une fourchette étroite autour de 99,7-99,85, sans tendance
 
 | Date | Événement | Impact attendu |
 |---|---|---|
-| **12/08/2026, 8h30 ET** | CPI (juillet) — consensus headline +0,1 % m/m / +3,4 % a/a, Core CPI +0,2 à +0,32 % m/m / +2,5 % a/a | 🔴 Très élevé |
+| **12/08/2026, 14h30 (heure de Paris)** | CPI (juillet) — consensus headline +0,1 % m/m / +3,4 % a/a, Core CPI +0,2 à +0,32 % m/m / +2,5 % a/a | 🔴 Très élevé |
 | **12/08/2026, en continu** | Suivi du dossier Ormuz (négociations Oman-Iran, posture Trump, pétrole) | 🔴 Très élevé (imprévisible) |
-| **13/08/2026, 8h30 ET** | PPI (juillet) + inscriptions hebdomadaires au chômage (semaine du 08/08) | 🟠 Élevé |
-| **14/08/2026, 8h30 ET** | Ventes au détail (juillet) | 🟠 Élevé |
-| **14/08/2026, 10h ET** | Confiance des consommateurs Michigan (préliminaire, août) | 🟡 Moyen |
+| **13/08/2026, 14h30 (heure de Paris)** | PPI (juillet) + inscriptions hebdomadaires au chômage (semaine du 08/08) | 🟠 Élevé |
+| **14/08/2026, 14h30 (heure de Paris)** | Ventes au détail (juillet) | 🟠 Élevé |
+| **14/08/2026, 16h00 (heure de Paris)** | Confiance des consommateurs Michigan (préliminaire, août) | 🟡 Moyen |
 | **27-29/08/2026** | Symposium de Jackson Hole (discours attendu de Kevin Warsh) | 🟠 Élevé |
 | **10/09/2026** | Réunion BCE | 🔴 Très élevé |
 | **15-16/09/2026** | Prochain FOMC — probabilités proches de 50/50 entre statu quo et hausse | 🔴 Très élevé |
@@ -221,7 +221,7 @@ Le dollar reste dans une fourchette étroite autour de 99,7-99,85, sans tendance
 | Consolidation 4 300-4 400 $ | 45 % | CPI proche du consensus |
 | Repli vers 4 150-4 300 $ | 25 % | CPI nettement supérieur au consensus, confirmation du scénario de hausse Fed |
 
-**Événements déclencheurs** : CPI de juillet (12/08, 8h30 ET), PPI de juillet (13/08), évolution du dossier Ormuz.
+**Événements déclencheurs** : CPI de juillet (12/08, 14h30, heure de Paris), PPI de juillet (13/08), évolution du dossier Ormuz.
 
 ### 11.2 Nasdaq 100
 
@@ -298,9 +298,9 @@ Le dollar reste dans une fourchette étroite autour de 99,7-99,85, sans tendance
 
 | Actif | Biais | Confiance | Facteurs principaux | Événement le plus important à surveiller |
 |---|---|---|---|---|
-| **Or (XAU/USD)** | Neutre à haussier | 5/10 | Rebond pré-CPI, refuge géopolitique (Ormuz), positionnement structurel solide | CPI de juillet (12/08, 8h30 ET) |
-| **Nasdaq 100** | Neutre à baissier | 4/10 | Attente du CPI, probabilité de hausse Fed encore élevée, valorisations tendues | CPI de juillet (12/08, 8h30 ET) |
-| **S&P 500** | Neutre | 5/10 | Résilience relative, ISM solides, mais Fed et Ormuz en suspens | CPI de juillet (12/08, 8h30 ET) |
+| **Or (XAU/USD)** | Neutre à haussier | 5/10 | Rebond pré-CPI, refuge géopolitique (Ormuz), positionnement structurel solide | CPI de juillet (12/08, 14h30, heure de Paris) |
+| **Nasdaq 100** | Neutre à baissier | 4/10 | Attente du CPI, probabilité de hausse Fed encore élevée, valorisations tendues | CPI de juillet (12/08, 14h30, heure de Paris) |
+| **S&P 500** | Neutre | 5/10 | Résilience relative, ISM solides, mais Fed et Ormuz en suspens | CPI de juillet (12/08, 14h30, heure de Paris) |
 | **DAX 40** | Neutre à haussier | 5/10 | Résilience sectorielle (finance, industrie, utilities), proche des records | CPI US et évolution du pétrole/Ormuz |
 
 ---
@@ -321,6 +321,6 @@ Les points suivants n'ont **pas pu être confirmés** avec certitude par une sou
 
 ## Avertissement
 
-Ce document est un **rapport d'analyse macroéconomique à but informatif et pédagogique uniquement**. Il ne constitue **en aucun cas un conseil en investissement, une recommandation d'achat ou de vente, ni une sollicitation** à effectuer une quelconque opération financière. Les marchés financiers comportent des risques de perte en capital. Les scénarios et pondérations probabilistes présentés sont des estimations qualitatives et ne garantissent aucun résultat futur. Ce rapport a été rédigé mercredi 12 août 2026, avant ou pendant la publication du CPI de juillet (8h30 ET) — le résultat effectif de cette publication n'a pas pu être confirmé de façon fiable au moment de la rédaction (voir section 13), et les niveaux de marché mentionnés sont donc particulièrement susceptibles d'évoluer rapidement dès la publication. Avant toute décision d'investissement, consultez un conseiller financier agréé et vérifiez les données auprès des sources primaires citées, idéalement en temps réel.
+Ce document est un **rapport d'analyse macroéconomique à but informatif et pédagogique uniquement**. Il ne constitue **en aucun cas un conseil en investissement, une recommandation d'achat ou de vente, ni une sollicitation** à effectuer une quelconque opération financière. Les marchés financiers comportent des risques de perte en capital. Les scénarios et pondérations probabilistes présentés sont des estimations qualitatives et ne garantissent aucun résultat futur. Ce rapport a été rédigé mercredi 12 août 2026, avant ou pendant la publication du CPI de juillet (14h30, heure de Paris) — le résultat effectif de cette publication n'a pas pu être confirmé de façon fiable au moment de la rédaction (voir section 13), et les niveaux de marché mentionnés sont donc particulièrement susceptibles d'évoluer rapidement dès la publication. Avant toute décision d'investissement, consultez un conseiller financier agréé et vérifiez les données auprès des sources primaires citées, idéalement en temps réel.
 
 *Rapport généré le 12 août 2026 à partir de recherches web. Toutes les sources sont citées en ligne ; les liens renvoient vers les pages consultées au moment de la rédaction.*

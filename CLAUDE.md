@@ -16,3 +16,9 @@ tel quel (émojis, sections courtes, pas de tableaux markdown). Ce résumé doit
 - Section ⚠️ À SURVEILLER (l'événement le plus important à venir)
 
 Ce résumé Telegram doit être produit **à chaque fois**, sans que l'utilisateur ait besoin de le redemander.
+
+**Règle permanente : toujours exprimer les heures en heure de Paris (jamais en ET / heure US)**,
+aussi bien dans le rapport complet que dans le résumé Telegram. Convertir les horaires des
+publications américaines (CPI, PPI, NFP, ventes au détail, etc., généralement publiées à 8h30
+ET) en heure de Paris (ET + 6h en horaire d'été américain/européen standard, à vérifier selon
+la période de l'année).
