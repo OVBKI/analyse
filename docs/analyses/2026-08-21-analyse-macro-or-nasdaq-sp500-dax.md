@@ -1,7 +1,7 @@
 # Rapport Macroéconomique Quotidien — 21 août 2026
 ### Or (XAU/USD) · Nasdaq 100 · S&P 500 · DAX 40
 
-*Rapport produit à partir de recherches Internet effectuées le 21 août 2026 (vendredi), en matinée européenne, avant la publication des PMI flash zone euro (9h00 heure de Paris) et américains (15h45 heure de Paris) et avant l'ouverture des marchés actions européens et américains. Toutes les données sont sourcées ; les points non vérifiés ou divergents entre sources sont listés en section 13. Ceci n'est pas un conseil en investissement (voir avertissement final).*
+*Rapport produit à partir de recherches Internet effectuées le 21 août 2026 (vendredi), en matinée européenne. **Mise à jour** effectuée en fin de matinée (heure de Paris), après la publication des PMI flash zone euro (9h00 heure de Paris) et le début des échanges de futures actions européens et américains, mais toujours avant l'ouverture officielle de Wall Street et avant le PMI flash américain (15h45 heure de Paris). Toutes les données sont sourcées ; les points non vérifiés ou divergents entre sources sont listés en section 13. Ceci n'est pas un conseil en investissement (voir avertissement final).*
 
 ---
 
@@ -13,28 +13,31 @@ La séance de jeudi a marqué un **net retour de l'aversion au risque** après l
 
 Sur le front géopolitique, le secrétaire au Trésor **Scott Bessent** a annoncé jeudi la préparation d'un **plan « d'isolement économique sans précédent »** contre l'Iran, promettant de détailler de nouvelles sanctions **lundi 24 août** lors d'une conférence de presse, et affirmant vouloir « faire s'effondrer le régime » ; l'OFAC a déjà sanctionné des plateformes d'actifs numériques finançant les réseaux du CGRI (Corps des Gardiens de la révolution islamique) [Al Jazeera](https://www.aljazeera.com/news/2026/8/20/us-treasury-secretary-says-new-economic-measures-will-collapse-iran), [The National](https://www.thenationalnews.com/news/us/2026/08/20/bessent-iran-sanctions/). Le trafic maritime dans le **détroit d'Ormuz reste quasiment à l'arrêt** (1 seul transit relevé le 16 août contre une base de référence de 73/jour avant-crise), et des forces iraniennes auraient **saisi un pétrolier** au large de l'île de Qeshm [straits.live](https://straits.live/). Ce cocktail a propulsé le **Brent vers 92-93 $/baril (+plus de 4 % sur la semaine)**, un plus haut de près de deux mois [LiteFinance](https://www.litefinance.org/blog/analysts-opinions/oil-price-prediction-forecast/brent-prices-rise-as-hormuz-disruptions-fuel-supply-concerns-forecast-as-of-20082026/).
 
-L'**or poursuit sa progression**, évoluant ce vendredi matin autour de **4 517-4 538 $/once** (+0,4 % environ), porté par la prime géopolitique, la faiblesse persistante du dollar (**DXY ~98,76**, proche de ses plus bas de trois mois) et des flux ETF résilients (GLD : +1,78 Md$ sur un mois, encours à 141,5 Md$) [Kitco](https://www.kitco.com/news/article/2026-08-19/gold-surges-above-4500-silver-breaks-66-treasury-buyback-sinks-yields-kitco), [Benzinga GLD](https://www.benzinga.com/etfs/broad-u-s-equity-etfs/26/08/61055306/quick-spark-spy-gld-among-biggest-winners-as-15-3-billion-floods-into-etfs-in-one-day). Le **VIX reste très calme (14,89 à la clôture de jeudi)**, proche de son plus bas de l'année, une divergence notable avec le regain de volatilité sous-jacent sur les indices [Barchart](https://www.barchart.com/story/news/3956689/is-the-vix-inexpensive-going-into-the-historically-volatile-fall-in-2026). La confiance des consommateurs du Michigan (préliminaire d'août) s'est effondrée à **51,0 (-8 % m/m, contre 55,0 attendu)**, les anticipations d'inflation à un an remontant à **4,3 %** [Advisor Perspectives](https://www.advisorperspectives.com/dshort/updates/2026/08/17/consumer-sentiment-falls-in-august). Aujourd'hui, les **PMI flash d'août** (zone euro à 9h00 heure de Paris, États-Unis à 15h45 heure de Paris) constituent le principal catalyseur macro de la séance, avant le symposium de **Jackson Hole (27-29 août)** et le premier discours du président de la Fed Kevin Warsh (vendredi 28 août matin).
+L'**or accélère sa progression**, évoluant en fin de matinée autour de **4 540-4 594 $/once selon les sources (+0,5 à +0,9 %)**, en route pour un **troisième gain hebdomadaire consécutif (+3,6 % sur la semaine)**, porté par la prime géopolitique, la faiblesse persistante du dollar et une demande soutenue des banques centrales [FX Leaders](https://www.fxleaders.com/news/2026/08/21/gold-breaks-4525-xau-usd-bulls-eye-4625-dollar-slides/), [Trading Economics](https://tradingeconomics.com/commodity/gold). Le **VIX reste très calme (14,89 à la clôture de jeudi)**, proche de son plus bas de l'année, une divergence notable avec le regain de volatilité sous-jacent sur les indices [Barchart](https://www.barchart.com/story/news/3956689/is-the-vix-inexpensive-going-into-the-historically-volatile-fall-in-2026). La confiance des consommateurs du Michigan (préliminaire d'août) s'est effondrée à **51,0 (-8 % m/m, contre 55,0 attendu)**, les anticipations d'inflation à un an remontant à **4,3 %** [Advisor Perspectives](https://www.advisorperspectives.com/dshort/updates/2026/08/17/consumer-sentiment-falls-in-august).
+
+**Mise à jour de fin de matinée** : le **PMI flash composite de la zone euro est ressorti à 52,1 en août** (contre 52,0 en juillet), son **plus haut niveau depuis novembre**, porté par un **manufacturier bondissant à 52,8** (plus haut depuis mai 2022) et des **services stables à 51,7** ; les nouvelles commandes à l'exportation progressent pour la première fois en quatre ans et demi et l'emploi augmente pour la première fois en 2026, une surprise positive qui a immédiatement soutenu l'euro et le DAX [RTE](https://www.rte.ie/news/business/2026/0821/1588764-euro-zone-pmi-figures/), [FXStreet](https://www.fxstreet.com/analysis/flash-pmis-to-test-growth-resilience-202608210617). Les **futures actions américains rebondissent nettement** après le repli marqué de jeudi : Dow +0,6 %, S&P 500 +0,4 %, **Nasdaq 100 +0,7 %**, un mouvement en partie attribué par les commentateurs de marché à la lecture des déclarations de Scott Bessent sur les « sanctions les plus sévères de l'histoire » contre l'Iran comme un signe de fermeté susceptible de rapprocher une résolution, plutôt que comme un facteur d'escalade [Benzinga](https://www.benzinga.com/markets/equities/26/08/61350037/stock-market-today-dow-jones-sp-500-futures-gain-as-scott-bessent-touts-toughest-sanctions-for-iran-ross-stores-strategy-flowers-foods-in-focus). Le **10 ans américain se stabilise à ~4,70-4,71 %** et le **DXY oscille autour de 98,80**, juste au-dessus de son plus bas de trois mois (~98,50 touché jeudi), les investisseurs attendant désormais le **PMI flash américain à 15h45 heure de Paris (9h45 ET)** comme catalyseur suivant, avant le symposium de **Jackson Hole (27-29 août)** et le premier discours du président de la Fed Kevin Warsh (vendredi 28 août matin) [FXStreet](https://www.fxstreet.com/news/united-states-dollar-index-remains-below-9900-as-10-year-us-yield-steadies-202608210652).
 
 **Chiffres clés du jour :**
 
 | Indicateur | Valeur | Variation | Source |
 |---|---|---|---|
-| Or (XAU/USD) | ~4 517-4 538 $ (21/08, matinée) | +0,4 % environ, poursuite du rebond | [Kitco](https://www.kitco.com/news/article/2026-08-19/gold-surges-above-4500-silver-breaks-66-treasury-buyback-sinks-yields-kitco) |
-| S&P 500 | 7 641,16 pts (clôture 20/08) | -0,8 % | [Yahoo Finance](https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-20-dow-sp-500-nasdaq-081139322.html) |
+| Or (XAU/USD) | ~4 540-4 594 $ (21/08, fin de matinée, écart selon sources) | +0,5 % à +0,9 %, 3ᵉ semaine de hausse consécutive (+3,6 %) | [FX Leaders](https://www.fxleaders.com/news/2026/08/21/gold-breaks-4525-xau-usd-bulls-eye-4625-dollar-slides/) |
+| S&P 500 | 7 641,16 pts (clôture 20/08) ; futures **+0,4 %** ce matin | -0,8 % (20/08) | [Yahoo Finance](https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-20-dow-sp-500-nasdaq-081139322.html) |
 | Nasdaq Composite | 26 067,17 pts (clôture 20/08) | -1,0 % | [Yahoo Finance](https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-20-dow-sp-500-nasdaq-081139322.html) |
-| Nasdaq 100 | 29 213,16 pts (clôture 20/08) ; ~29 324 (futures, 21/08 matin) | -0,72 % (-212,86 pts) | [Yahoo Finance NDX](https://finance.yahoo.com/quote/%5ENDX/history/) |
-| Dow Jones | 52 759,21 pts (clôture 20/08) | -1,3 % (-~700 pts) | [The Motley Fool](https://www.fool.com/coverage/stock-market-today/2026/08/20/stock-market-today-aug-20-stocks-slide-on-weak-retail-earnings-rising-bond-yields/) |
-| DAX 40 | 25 983 pts (clôture 20/08) ; ~26 178 (futures, 21/08 matin) | -0,41 % (4ᵉ séance de baisse consécutive) | [Trading Economics](https://tradingeconomics.com/germany/stock-market) |
+| **Nasdaq 100 (CME, futures NQ)** | 29 213,16 pts (clôture cash 20/08) ; **futures ~29 320-29 420, +0,7 % à 0,08 % selon l'heure de la cotation** | -0,72 % (20/08) ; rebond ce matin | [Benzinga](https://www.benzinga.com/markets/equities/26/08/61350037/stock-market-today-dow-jones-sp-500-futures-gain-as-scott-bessent-touts-toughest-sanctions-for-iran-ross-stores-strategy-flowers-foods-in-focus), voir section 11.5 |
+| Dow Jones | 52 759,21 pts (clôture 20/08) ; futures **+0,6 %** ce matin | -1,3 % (-~700 pts, 20/08) | [The Motley Fool](https://www.fool.com/coverage/stock-market-today/2026/08/20/stock-market-today-aug-20-stocks-slide-on-weak-retail-earnings-rising-bond-yields/) |
+| DAX 40 | 25 983 pts (clôture 20/08) ; **ouverture 21/08 à 26 280,86, range 26 119,54-26 292,95** | -0,41 % (20/08) ; rebond net à l'ouverture (+~1,2 %) | [Investing.com](https://www.investing.com/indices/germany-30) |
 | WTI | ~84,25-84,92 $/baril | Stable à haut | [Investing.com](https://www.investing.com/commodities/crude-oil-historical-data) |
 | Brent | ~92-93 $/baril | +4 % sur la semaine, plus haut depuis ~2 mois | [LiteFinance](https://www.litefinance.org/blog/analysts-opinions/oil-price-prediction-forecast/brent-prices-rise-as-hormuz-disruptions-fuel-supply-concerns-forecast-as-of-20082026/) |
 | Fed Funds | 3,50 %–3,75 % | Statu quo depuis le 29/07 ; Président : Kevin Warsh | [Fed](https://www.federalreserve.gov/monetarypolicy/fomcminutes20260729.htm) |
 | BCE (dépôt) | 2,25 % | Statu quo depuis le 23/07 ; hausse de 25 pb attendue le 10/09 | [ECB](https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp260723~29f24d99bc.en.html) |
-| DXY | ~98,76 (clôture 20/08) | -0,07 %, proche du plus bas depuis 3 mois | [Trading Economics](https://tradingeconomics.com/united-states/currency) |
+| DXY | ~98,80 (21/08, matinée) | Stable, juste au-dessus du plus bas de 3 mois (~98,50) | [FXStreet](https://www.fxstreet.com/news/united-states-dollar-index-remains-below-9900-as-10-year-us-yield-steadies-202608210652) |
 | VIX | 14,89 (clôture 20/08) | Proche du plus bas de l'année | [Barchart](https://www.barchart.com/story/news/3956689/is-the-vix-inexpensive-going-into-the-historically-volatile-fall-in-2026) |
 | US Treasury 30 ans | ~5,25 % (20/08) | +~5 pb, la détente de mercredi s'efface | [Trading Economics](https://tradingeconomics.com/united-states/30-year-bond-yield) |
-| US Treasury 10 ans | 4,71 % (21/08) | +6 pb depuis le 20/08 | [Trading Economics](https://tradingeconomics.com/united-states/government-bond-yield) |
+| US Treasury 10 ans | ~4,70-4,71 % (21/08, matinée) | Stable | [FXStreet](https://www.fxstreet.com/news/united-states-dollar-index-remains-below-9900-as-10-year-us-yield-steadies-202608210652) |
 | Bund allemand 10 ans | ~3,27 % (19/08, dernière donnée recoupée) | Plus haut depuis 2011 | [Trading Economics](https://tradingeconomics.com/germany/government-bond-yield/news/515063) |
 | Probabilité hausse Fed (sept.) | ~31,6 % (CME FedWatch, 20/08) | Statu quo à ~68,4 % | [CoinGape / CME FedWatch](https://coingape.com/prediction-markets/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting/) |
+| **PMI flash composite zone euro (août)** | **52,1** (manufacturier 52,8, services 51,7) | Plus haut depuis novembre ; manufacturier au plus haut depuis mai 2022 | [RTE](https://www.rte.ie/news/business/2026/0821/1588764-euro-zone-pmi-figures/) |
 
 ---
 
@@ -113,11 +116,17 @@ Aucune nouvelle donnée de croissance macro majeure publiée depuis le rapport p
 **Résultats d'entreprises publiés jeudi 20 août** :
 - **Walmart (T2 fiscal)** : **BPA ajusté à 0,81 $** contre 0,74 $ attendu (surprise de +9,5 %), **chiffre d'affaires à 187,9 Md$** contre 186,75 Md$ attendu (+0,6 %) ; ventes comparables aux États-Unis en hausse de 2,6 % ; **relèvement des prévisions annuelles**. Malgré le « beat », l'action a chuté de **-8,9 %**, les investisseurs jugeant la qualité du bénéfice fragile : environ **750 points de base de marge opérationnelle proviennent de remboursements tarifaires ponctuels**, dans un contexte de poursuite des investissements sur les prix face à des consommateurs faisant des arbitrages liés au prix de l'essence [Investing.com](https://www.investing.com/news/transcripts/earnings-call-transcript-walmart-beats-q2-2026-forecasts-shares-sink-89-93CH-4870025), [StockStory](https://stockstory.org/us/stocks/nasdaq/wmt/news/earnings/walmarts-nasdaqwmt-q2-cy2026-sales-top-estimates-but-stock-drops).
 
+**PMI flash zone euro (août), publiés ce matin à 9h00 heure de Paris — bonne surprise** :
+- **Composite : 52,1** (contre 52,0 en juillet), plus haut niveau depuis novembre 2025, croissance au rythme le plus soutenu en 40 mois.
+- **Manufacturier : 52,8** (contre 51,9), plus haut niveau depuis mai 2022.
+- **Services : 51,7** (stable), croissance modeste mais continue.
+- Les **nouvelles commandes à l'exportation progressent pour la première fois en quatre ans et demi**, et l'**emploi augmente pour la première fois en 2026**, deux signaux structurellement positifs [RTE](https://www.rte.ie/news/business/2026/0821/1588764-euro-zone-pmi-figures/), [FXStreet](https://www.fxstreet.com/analysis/flash-pmis-to-test-growth-resilience-202608210617), [ADVFN](https://uk.advfn.com/market-news/article/21637/eurozone-business-activity-strengthens-in-august-as-manufacturing-accelerates).
+
 **Publications à venir** :
-- **Vendredi 21 août (aujourd'hui)** : **PMI flash zone euro (manufacturier/services/composite), publication à 9h00 heure de Paris** ; **PMI flash États-Unis (S&P Global), publication à 15h45 heure de Paris (9h45 ET)** [VT Markets](https://www.vtmarkets.com/live-updates/the-release-of-preliminary-german-and-eurozone-flash-hcob-pmis-at-these-times-may-impact-eur-usd/), [PMI S&P Global](https://www.pmi.spglobal.com/).
+- **Vendredi 21 août (aujourd'hui), 15h45 heure de Paris (9h45 ET)** : **PMI flash États-Unis (S&P Global, manufacturier/services/composite)**, non encore publié au moment de cette mise à jour [PMI S&P Global](https://www.pmi.spglobal.com/).
 - **Semaine du 27 août** : symposium de Jackson Hole (27-29/08) et lecture finale de la confiance du Michigan (28/08, 16h00 heure de Paris).
 
-**Impact par actif** : les PMI flash du jour constitueront le premier signal complet de l'activité économique d'août pour la zone euro et les États-Unis, dans un contexte où le consommateur américain montre des signes de fragilité (Michigan à 51,0, arbitrages liés au prix de l'essence chez Walmart) susceptible de peser sur le S&P 500 et le Nasdaq si les composantes services déçoivent.
+**Impact par actif** : la surprise haussière du PMI composite zone euro (52,1, plus haut depuis novembre) a immédiatement soutenu le DAX et l'euro à l'ouverture ce matin, réduisant le risque d'un scénario de stagflation en Allemagne malgré la hausse du pétrole. Le PMI flash américain de 15h45 heure de Paris reste le catalyseur le plus attendu de la séance pour le S&P 500 et le Nasdaq, dans un contexte où le consommateur américain montre des signes de fragilité (Michigan à 51,0, arbitrages liés au prix de l'essence chez Walmart) susceptible de peser sur les indices si la composante services déçoit.
 
 ---
 
@@ -165,9 +174,10 @@ Aucun développement majeur nouveau signalé depuis le rapport précédent conce
 
 | Indicateur | Valeur | Source |
 |---|---|---|
-| DXY (20/08/2026) | 98,7599 | -0,07 % | [Trading Economics](https://tradingeconomics.com/united-states/currency) |
+| DXY (20/08/2026, clôture) | 98,7599 (-0,07 %) | [Trading Economics](https://tradingeconomics.com/united-states/currency) |
+| DXY (21/08/2026, matinée) | ~98,80, support technique identifié à 98,65-98,70, résistance à 99,00 | [FXStreet](https://www.fxstreet.com/news/united-states-dollar-index-remains-below-9900-as-10-year-us-yield-steadies-202608210652) |
 
-Le dollar reste proche de ses **plus bas niveaux depuis environ trois mois**, malgré la remontée des rendements jeudi, les traders continuant d'anticiper une Fed globalement accommodante (probabilité de hausse en septembre limitée à ~31,6 %) et restant attentifs au discours de Kevin Warsh à Jackson Hole (28/08).
+Le dollar reste proche de ses **plus bas niveaux depuis environ trois mois** (plus bas de la semaine à ~98,50 touché jeudi), peinant à rebondir malgré la stabilisation du 10 ans autour de 4,70-4,71 %, les traders continuant d'anticiper une Fed globalement accommodante (probabilité de hausse en septembre limitée à ~31,6 %) et restant attentifs au discours de Kevin Warsh à Jackson Hole (28/08) [FXStreet](https://www.fxstreet.com/news/forex-today-us-dollar-stays-near-multi-month-lows-ahead-of-key-pmi-data-202608210644).
 
 **Impact par actif** : un dollar proche de ses plus bas de trois mois, combiné à la prime géopolitique liée au plan d'isolement économique contre l'Iran, constitue une configuration structurellement favorable à l'or à court terme.
 
@@ -187,8 +197,8 @@ Le dollar reste proche de ses **plus bas niveaux depuis environ trois mois**, ma
 
 | Date | Événement | Impact attendu |
 |---|---|---|
-| **21/08/2026, 9h00 heure de Paris** | PMI flash zone euro (manufacturier/services/composite) | 🔴 Très élevé |
-| **21/08/2026, 15h45 heure de Paris** | PMI flash États-Unis (S&P Global) | 🔴 Très élevé |
+| **21/08/2026, 9h00 heure de Paris** | ✅ **PUBLIÉ** — PMI flash zone euro : composite **52,1**, manufacturier **52,8**, services **51,7** (surprise haussière) | 🔴 Très élevé |
+| **21/08/2026, 15h45 heure de Paris** | PMI flash États-Unis (S&P Global) — **prochain catalyseur de la séance** | 🔴 Très élevé |
 | **21/08/2026, en continu** | Suivi du plan d'« isolement économique » de Bessent, situation au détroit d'Ormuz | 🔴 Très élevé (imprévisible) |
 | **24/08/2026** | Conférence de presse de Scott Bessent — détails des nouvelles sanctions contre l'Iran | 🔴 Très élevé |
 | **26/08/2026, 14h30 heure de Paris** | PCE / Core PCE (données de juillet) | 🔴 Très élevé |
@@ -207,8 +217,8 @@ Le dollar reste proche de ses **plus bas niveaux depuis environ trois mois**, ma
 
 ### 11.1 Or (XAU/USD)
 
-- **Prix actuel** : ~4 517-4 538 $/once (21/08, matinée), en légère hausse (+0,4 % environ) après une clôture mercredi vers 4 523 $ et un point bas jeudi vers 4 450-4 480 $.
-- **Tendance** : poursuite du rebond structurel entamé mercredi, porté par la réactivation de la prime géopolitique (plan Bessent, quasi-fermeture d'Ormuz) malgré la remontée des rendements nominaux.
+- **Prix actuel** : **~4 540-4 594 $/once selon les sources** (21/08, fin de matinée), en hausse de **+0,5 % à +0,9 %**, en route pour un **troisième gain hebdomadaire consécutif (+3,6 % sur la semaine)**.
+- **Tendance** : poursuite et accélération du rebond structurel entamé mercredi, porté par la réactivation de la prime géopolitique (plan Bessent, quasi-fermeture d'Ormuz), la faiblesse du dollar et une demande soutenue des banques centrales. Les analystes identifient une résistance à ~4 525 $ (désormais franchie) avec un objectif suivant vers **4 625-4 650 $**, et un support à **4 430-4 450 $** [FX Leaders](https://www.fxleaders.com/news/2026/08/21/gold-breaks-4525-xau-usd-bulls-eye-4625-dollar-slides/).
 
 **Facteurs haussiers** : plan d'« isolement économique sans précédent » contre l'Iran (détails attendus le 24/08) ; quasi-fermeture persistante du détroit d'Ormuz ; probabilité de hausse Fed en septembre limitée (~31,6 %) ; dollar proche de ses plus bas de trois mois ; flux ETF résilients (GLD +1,78 Md$ sur un mois) ; positionnement COT structurellement net long ; discours de Kevin Warsh à Jackson Hole (28/08) perçu comme un catalyseur potentiellement dovish.
 
@@ -229,25 +239,30 @@ Le dollar reste proche de ses **plus bas niveaux depuis environ trois mois**, ma
 
 ### 11.2 Nasdaq 100
 
-- **Prix actuel** : 29 213,16 points à la clôture de jeudi (-0,72 %, -212,86 pts) ; futures en légère hausse ce vendredi matin vers ~29 324 pts.
-- **Tendance** : reprise du repli technologique après l'éphémère rebond de mercredi, la remontée des rendements longs redevenant le facteur dominant.
+- **Prix actuel** : 29 213,16 points à la clôture cash de jeudi (-0,72 %, -212,86 pts) ; **futures NQ en hausse de +0,7 % ce vendredi matin**, aux alentours de 29 320-29 420 points selon l'heure de cotation.
+- **Tendance** : rebond technique en cours après le repli de jeudi, mais l'indice reste en route pour une **perte hebdomadaire**, la remontée des rendements longs ayant pesé toute la semaine sur les valeurs technologiques et sur les noms liés à l'IA à forte intensité capitalistique (Nvidia notamment).
 
-**Facteurs haussiers** : rebond technique des futures ce matin ; probabilité de hausse Fed en septembre toujours limitée (~31,6 %) ; résultats globalement solides de la grande distribution (Walmart bat le consensus malgré la réaction négative du titre).
+**Facteurs haussiers** : rebond marqué des futures ce matin (+0,7 %) ; stabilisation du 10 ans autour de 4,70-4,71 % ; PMI flash zone euro nettement meilleur qu'attendu (52,1), un signal de résilience de la demande mondiale ; probabilité de hausse Fed en septembre toujours limitée (~31,6 %) ; dollar faible, favorable aux revenus internationaux des méga-capitalisations technologiques ; lecture de marché relativement optimiste des déclarations de Bessent (fermeté perçue comme rapprochant une résolution du dossier iranien).
 
-**Facteurs baissiers** : remontée des rendements longs US effaçant intégralement le répit du Trésor de mercredi ; escalade du dossier Iran (plan Bessent, Ormuz) susceptible de raviver durablement la prime de risque pétrolière ; confiance du consommateur américain en net repli (Michigan à 51,0), un signal de fragilité pour la demande.
+**Facteurs baissiers** : niveau des rendements longs toujours élevé (30 ans à ~5,25 %), directement pénalisant pour les multiples de valorisation ; pression persistante de la semaine sur les valeurs IA et semi-conducteurs, liée aux inquiétudes sur les dépenses d'investissement (capex) et les valorisations ; risque pétrolier lié à l'Iran/Ormuz non résolu ; confiance du consommateur américain en net repli (Michigan à 51,0) ; VIX à 14,89, proche de son plus bas annuel, signe d'un positionnement potentiellement complaisant.
 
-**Risques** : des PMI flash américains décevants aujourd'hui, combinés à une remontée continue du pétrole, pourraient accentuer la pression sur les valorisations technologiques avant Jackson Hole.
+**Risques** : un PMI flash américain décevant à 15h45 heure de Paris, notamment sur la composante services, pourrait effacer le rebond des futures et raviver la pression avant Jackson Hole.
 
-**Opportunités** : des PMI flash solides et une stabilisation des rendements pourraient permettre une consolidation technique avant le discours de Warsh.
+**Opportunités** : un PMI flash américain solide combiné à la stabilisation des rendements permettrait de consolider le rebond technique et de tester la zone de résistance des 30 000-30 400 points.
+
+**Niveaux techniques** (voir section 11.5 pour l'analyse détaillée des futures CME) :
+- **Résistances** : 29 500 (plus haut du 18/08) · 30 000 (seuil psychologique, plus haut de début août) · 30 400-30 500 (résistance majeure du canal ascendant ; un franchissement décisif ouvrirait la voie vers 32 500)
+- **Supports** : 29 200 (clôture de jeudi) · 28 149 (moyenne mobile 50 jours) · 27 000 (support majeur de fin juillet) · 26 000 (support structurel) · 25 733 (moyenne mobile 200 jours)
+- Source : [ChartScanner](https://chartscanner.ai/blog/nasdaq-100-analysis-2026-08-17), [NAGA](https://naga.com/en/news-and-analysis/articles/nasdaq-100-price-prediction)
 
 **Scénarios probables** :
 | Scénario | Probabilité | Description |
 |---|---|---|
-| Rebond technique | 25 % | PMI flash solides, stabilisation des rendements, apaisement sur l'Iran |
-| Consolidation autour des niveaux actuels | 40 % | Marché dans l'attente de Jackson Hole, digestion du repli de jeudi |
-| Reprise de la correction | 35 % | PMI décevants, nouvelle remontée des rendements et du pétrole, sanctions Bessent sévères |
+| Poursuite du rebond vers 29 500-30 000 | 30 % | PMI flash US solide, rendements stables, apaisement perçu sur l'Iran |
+| Consolidation 29 000-29 500 | 40 % | Marché dans l'attente de Jackson Hole, digestion de la semaine baissière |
+| Reprise de la correction sous 29 000 | 30 % | PMI US décevant, nouvelle remontée des rendements et du pétrole, sanctions Bessent perçues comme escalatoires |
 
-**Événements déclencheurs** : PMI flash (21/08), conférence Bessent (24/08), Jackson Hole (27-29/08).
+**Événements déclencheurs** : **PMI flash US (21/08, 15h45 heure de Paris)**, conférence Bessent (24/08), PCE (26/08), Jackson Hole (27-29/08).
 
 ### 11.3 S&P 500
 
@@ -269,43 +284,95 @@ Le dollar reste proche de ses **plus bas niveaux depuis environ trois mois**, ma
 
 ### 11.4 DAX 40
 
-- **Prix actuel** : 25 983 points à la clôture de jeudi (-0,41 %), quatrième séance consécutive de baisse ; futures en rebond ce vendredi matin vers ~26 178 points (données à confirmer, voir section 13).
-- **Tendance** : pression baissière persistante, l'indice cumulant quatre séances de repli sur fond de remontée du pétrole et des rendements en zone euro.
+- **Prix actuel** : 25 983 points à la clôture de jeudi (-0,41 %, quatrième séance consécutive de baisse) ; **ouverture ce vendredi à 26 280,86 points**, soit un **rebond d'environ +1,2 %**, avec un range de séance de 26 119,54 à 26 292,95 points [Investing.com](https://www.investing.com/indices/germany-30).
+- **Tendance** : **retournement technique en cours**, la série de quatre séances de baisse étant interrompue par la surprise haussière du PMI flash composite zone euro (52,1, plus haut depuis novembre), avec un manufacturier au plus haut depuis mai 2022 — un signal particulièrement favorable pour l'indice allemand, très exposé à l'industrie et à l'export.
 
-**Facteurs haussiers** : rebond technique des futures ce matin ; PIB allemand T2 et PMI manufacturier en amélioration relative (rapports précédents) ; PMI flash du jour pourrait surprendre à la hausse après la solidité du PMI composite de juillet (51,9).
+**Facteurs haussiers** : **PMI flash zone euro nettement meilleur qu'attendu** (composite 52,1, manufacturier 52,8 au plus haut depuis mai 2022) ; **nouvelles commandes à l'exportation en hausse pour la première fois en 4 ans et demi**, un point crucial pour l'industrie allemande ; **emploi en hausse pour la première fois en 2026** ; rebond de plus de 1 % à l'ouverture après quatre séances de repli ; valorisation redevenue plus attractive après la correction de la semaine.
 
-**Facteurs baissiers** : quatrième séance consécutive de baisse ; Brent en hausse de plus de 4 % sur la semaine, un facteur défavorable pour l'économie allemande importatrice nette d'énergie ; Bund à 10 ans à son plus haut niveau depuis 2011 (~3,27 %) ; anticipation croissante d'une hausse de taux BCE en septembre.
+**Facteurs baissiers** : Brent en hausse de plus de 4 % sur la semaine, facteur défavorable pour l'économie allemande importatrice nette d'énergie ; Bund à 10 ans à son plus haut niveau depuis 2011 (~3,27 %) ; anticipation d'une hausse de taux BCE de 25 pb le 10 septembre, renforcée paradoxalement par ces bons PMI (une économie plus solide donne à la BCE davantage de marge pour resserrer) ; risque de rechute si le dossier Iran/Ormuz s'aggrave.
 
-**Scénarios probables** :
+**Scénarios probables** (révisés après le PMI) :
 | Scénario | Probabilité | Description |
 |---|---|---|
-| Stabilisation/rebond technique | 25 % | PMI flash solide, apaisement géopolitique, pétrole stable |
-| Consolidation avec repli modéré | 35 % | Marché digère la 4ᵉ séance de baisse, attente de la BCE |
-| Repli plus marqué | 40 % | Poursuite de la hausse du pétrole, BCE nettement plus hawkish anticipée, PMI décevant |
+| Poursuite du rebond au-delà de 26 300 | 35 % | PMI US solide également, pétrole se stabilise, flux de rotation vers l'Europe |
+| Consolidation 26 000-26 300 | 40 % | Digestion du rebond, attente de la BCE et de Jackson Hole |
+| Rechute sous 26 000 | 25 % | Nouvelle escalade Iran/Ormuz, pétrole au-delà de 95 $, BCE perçue comme nettement plus hawkish |
 
-**Événements déclencheurs** : PMI flash (21/08), réunion BCE (10/09), évolution du dossier Iran/Ormuz.
+**Événements déclencheurs** : PMI flash US (21/08), réunion BCE (10/09), évolution du dossier Iran/Ormuz et du pétrole.
+
+### 11.5 Focus spécial — Nasdaq 100 sur le CME (futures NQ / MNQ)
+
+Cette section complète l'analyse 11.2 par une lecture spécifique du **marché à terme du Nasdaq 100 sur le Chicago Mercantile Exchange**, l'instrument de référence pour le trading directionnel et le positionnement institutionnel sur l'indice.
+
+**Contrats et spécifications**
+
+| Contrat | Symbole | Multiplicateur | Valeur notionnelle indicative (à 29 350 pts) | Tick |
+|---|---|---|---|---|
+| E-mini Nasdaq-100 | **NQ** | 20 $ × indice | ~587 000 $ | 0,25 pt = 5,00 $ |
+| Micro E-mini Nasdaq-100 | **MNQ** | 2 $ × indice | ~58 700 $ | 0,25 pt = 0,50 $ |
+
+Source : [CME Group — E-mini Nasdaq-100](https://www.cmegroup.com/markets/equities/nasdaq/e-mini-nasdaq-100.html). Le contrat actif est l'**échéance septembre 2026 (NQU6)**, dont le **roulement vers l'échéance décembre (NQZ6) interviendra lors de la semaine du 14 septembre 2026** (troisième vendredi du mois de trimestre), une période qui coïncide avec le FOMC des 15-16 septembre — un facteur de liquidité et de volatilité à anticiper [CME Group — calendrier](https://www.cmegroup.com/markets/equities/nasdaq/e-mini-nasdaq-100.calendar.html).
+
+**État du marché ce 21 août 2026**
+
+- **Ouverture de la session** : 29 293,00 points ; **range de la session** : 29 289,75 — 29 365,50 points ; niveau relevé en cours de matinée : **29 324,25 points (+23,75 pts, +0,08 %)** [Investing.com](https://www.investing.com/indices/nq-100-futures).
+- **En fin de matinée européenne**, les commentateurs de marché relèvent un **rebond plus marqué des futures Nasdaq 100, de l'ordre de +0,7 %**, ce qui placerait le contrat vers **29 400-29 420 points** — l'écart entre ces deux lectures reflète des heures de cotation différentes (voir section 13) [Benzinga](https://www.benzinga.com/markets/equities/26/08/61350037/stock-market-today-dow-jones-sp-500-futures-gain-as-scott-bessent-touts-toughest-sanctions-for-iran-ross-stores-strategy-flowers-foods-in-focus).
+- **Base (futures – cash)** : les futures cotent environ **110 à 200 points au-dessus** de la clôture cash de jeudi (29 213,16 pts), un écart cohérent avec un rebond de séance plutôt qu'avec une distorsion de base.
+
+**Lecture du positionnement et de la structure**
+
+- **Divergence VIX / futures** : le VIX a clôturé jeudi à **14,89**, proche de son plus bas annuel (14,18), alors même que le Nasdaq 100 cash reculait de -0,72 % et que le Dow perdait près de 700 points. Cette configuration — indices en repli, volatilité implicite atone — traduit un marché qui traite la correction comme une **rotation ordonnée plutôt qu'un événement de risque**. Pour un trader de futures, cela signifie que les **couvertures optionnelles sont bon marché** en valeur relative, mais aussi qu'un choc exogène (PMI US très décevant, escalade Ormuz, Warsh hawkish) pourrait produire un mouvement amplifié, un VIX bas offrant peu d'amortisseur au positionnement.
+- **Facteur dominant du moment** : le NQ est actuellement piloté par les **rendements longs américains** plutôt que par les résultats d'entreprises. La séquence de la semaine est explicite — annonce de rachats du Trésor mercredi → détente du 30 ans → rebond du NQ ; effacement de la détente jeudi → NQ en repli. La **corrélation inverse NQ / rendement 30 ans est le régime de marché dominant**, davantage que la corrélation traditionnelle avec les publications de bénéfices.
+- **Pression sectorielle** : les valeurs de l'écosystème IA et des semi-conducteurs ont porté l'essentiel du repli hebdomadaire, sur fond d'interrogations quant à l'ampleur des dépenses d'investissement et au niveau des valorisations — un thème qui, s'il s'installe, pèserait de manière disproportionnée sur le NQ compte tenu de sa concentration [OANDA](https://www.oanda.com/sg-en/skills-and-insights/education/market-commentary/chart-of-the-week/20072026-nasdaq-100-correction-risk-ai-trade-momentum-fades-july-2026/).
+
+**Cartographie des niveaux sur NQ (échéance septembre)**
+
+| Zone | Niveau | Nature |
+|---|---|---|
+| Résistance majeure | **30 400-30 500** | Borne haute du canal ascendant ; franchissement décisif ouvrirait 32 500 |
+| Résistance | **30 000** | Seuil psychologique, plus haut de début août |
+| Résistance immédiate | **29 500** | Plus haut du 18/08, borne haute du range actuel |
+| **Zone de cotation actuelle** | **29 290-29 420** | Range de la session du 21/08 |
+| Support immédiat | **29 200** | Clôture cash de jeudi, pivot du jour |
+| Support | **28 149** | Moyenne mobile 50 jours |
+| Support majeur | **27 000** | Base du mouvement de fin juillet |
+| Support structurel | **26 000 / 25 733** | Support de long terme / moyenne mobile 200 jours |
+
+Sources : [ChartScanner](https://chartscanner.ai/blog/nasdaq-100-analysis-2026-08-17), [NAGA](https://naga.com/en/news-and-analysis/articles/nasdaq-100-price-prediction).
+
+**Ce qu'il faut surveiller sur le NQ dans les prochaines séances**
+
+1. **PMI flash US à 15h45 heure de Paris (21/08)** — catalyseur immédiat. Le marché a déjà en main la surprise haussière européenne ; une confirmation américaine validerait le rebond, une déception sur la composante services l'invaliderait rapidement.
+2. **Comportement du 30 ans américain** — tant que la prime de terme reste le moteur, chaque poussée du 30 ans au-delà de 5,30 % constitue un signal de vente mécanique pour le NQ, et inversement.
+3. **Conférence de presse Bessent (24/08)** — le marché a interprété les déclarations de jeudi de façon constructive ; des sanctions perçues comme escalatoires, avec un Brent au-delà de 95 $, inverseraient cette lecture.
+4. **Discours de Kevin Warsh à Jackson Hole (28/08 au matin)** — l'événement à plus fort potentiel de mouvement du mois pour le NQ, à 19 jours du FOMC.
+5. **Roulement d'échéance NQU6 → NQZ6 (semaine du 14/09)** — coïncide avec le FOMC ; anticiper une liquidité et un comportement de base atypiques sur cette période.
+
+**Avertissement spécifique aux futures** : les contrats à terme sont des instruments à effet de levier. Un contrat NQ représente une exposition notionnelle d'environ 587 000 $ pour un dépôt de garantie représentant une fraction de ce montant ; un mouvement adverse de 1 % de l'indice se traduit par une perte d'environ 5 870 $ par contrat. Les pertes peuvent excéder le dépôt initial. Cette section est fournie à titre informatif uniquement et ne constitue pas une recommandation de transaction (voir avertissement général en fin de rapport).
 
 ---
 
 ## 12. Conclusion — Biais par horizon
 
+*Biais révisés après la publication du PMI flash zone euro et le rebond des futures actions.*
+
 | Actif | Horizon 1-5 jours | Horizon 1-4 semaines | Horizon 3-12 mois | Confiance globale (/10) |
 |---|---|---|---|---|
-| **Or (XAU/USD)** | Haussier (prime géopolitique renforcée par le plan Bessent, Ormuz quasi fermé) | Haussier | Haussier (Fed limitée en septembre, dollar faible, positionnement institutionnel favorable) | 6/10 |
-| **Nasdaq 100** | Neutre à baissier (remontée des rendements, risque pétrolier) | Neutre | Neutre | 5/10 |
-| **S&P 500** | Neutre à baissier (repli de jeudi, rendements en hausse) | Neutre | Neutre | 5/10 |
-| **DAX 40** | Baissier (4ᵉ séance de baisse, pétrole, Bund au plus haut depuis 2011) | Neutre à baissier | Neutre (sous réserve pétrole/BCE) | 5/10 |
+| **Or (XAU/USD)** | Haussier (3ᵉ semaine de hausse, prime géopolitique, dollar au plus bas de 3 mois) | Haussier | Haussier (Fed limitée en septembre, dollar faible, achats des banques centrales) | 6/10 |
+| **Nasdaq 100** | Neutre (rebond des futures +0,7 %, mais semaine négative et rendements longs élevés) | Neutre | Neutre | 5/10 |
+| **S&P 500** | Neutre (futures +0,4 %, stabilisation des rendements) | Neutre | Neutre | 5/10 |
+| **DAX 40** | **Neutre à haussier** *(révisé depuis Baissier)* — PMI flash zone euro nettement meilleur qu'attendu, rebond de +1,2 % à l'ouverture | Neutre | Neutre (sous réserve pétrole/BCE) | 5/10 |
 
-*Confiance limitée par l'incertitude sur le niveau exact du DAX et du Nasdaq 100 en cours de séance ce vendredi matin (écart entre clôtures confirmées et futures), par l'absence de détails concrets sur le plan de sanctions de Bessent (annoncé sans modalités précises avant la conférence du 24/08), par le résultat encore inconnu des PMI flash du jour au moment de la rédaction, et par l'issue incertaine et hautement imprévisible du dossier Iran/Ormuz.*
+*Confiance limitée par les écarts entre sources sur le niveau exact de l'or et des futures Nasdaq 100 en cours de séance (voir section 13), par l'absence de détails concrets sur le plan de sanctions de Bessent avant la conférence du 24/08, par le résultat encore inconnu du PMI flash américain de 15h45 heure de Paris au moment de cette mise à jour, et par l'issue incertaine et hautement imprévisible du dossier Iran/Ormuz.*
 
 ### Tableau récapitulatif
 
 | Actif | Biais | Confiance | Facteurs principaux | Événement le plus important à surveiller |
 |---|---|---|---|---|
-| **Or (XAU/USD)** | Haussier | 6/10 | Plan d'« isolement économique » de Bessent contre l'Iran, quasi-fermeture du détroit d'Ormuz, probabilité de hausse Fed limitée (~31,6 %), dollar proche de ses plus bas de 3 mois | Conférence de presse de Bessent (24/08) et symposium de Jackson Hole (27-29/08) |
-| **Nasdaq 100** | Neutre à baissier | 5/10 | Remontée des rendements longs effaçant le répit du Trésor, risque pétrolier lié à l'Iran, confiance du consommateur en net repli | PMI flash US (21/08, 15h45 heure de Paris) |
-| **S&P 500** | Neutre à baissier | 5/10 | Repli de jeudi (-0,8 %), rendements en hausse, résultats retail mitigés (Walmart bat mais chute) | PMI flash US (21/08) et Jackson Hole (27-29/08) |
-| **DAX 40** | Baissier | 5/10 | Quatrième séance consécutive de baisse, Bund au plus haut depuis 2011, Brent en hausse de plus de 4 % sur la semaine | Réunion BCE (10/09) et évolution du dossier Iran/Ormuz |
+| **Or (XAU/USD)** | Haussier | 6/10 | Troisième semaine de hausse consécutive (+3,6 %), plan d'« isolement économique » contre l'Iran, quasi-fermeture d'Ormuz, dollar au plus bas de 3 mois, achats des banques centrales | Conférence de presse de Bessent (24/08) et Jackson Hole (27-29/08) |
+| **Nasdaq 100** | Neutre | 5/10 | Rebond des futures CME (+0,7 %) après une semaine négative, rendements longs toujours élevés (30 ans ~5,25 %), pression sur les valeurs IA/semi-conducteurs, VIX au plus bas annuel | **PMI flash US (21/08, 15h45 heure de Paris)** |
+| **S&P 500** | Neutre | 5/10 | Futures en hausse de +0,4 %, stabilisation du 10 ans à ~4,70 %, résultats retail mitigés (Walmart bat mais chute de -8,9 %) | PMI flash US (21/08) et Jackson Hole (27-29/08) |
+| **DAX 40** | Neutre à haussier | 5/10 | PMI flash zone euro à 52,1 (plus haut depuis novembre), manufacturier au plus haut depuis mai 2022, commandes export en hausse pour la 1ʳᵉ fois en 4 ans et demi, rebond de +1,2 % à l'ouverture | Réunion BCE (10/09) et évolution du pétrole/Ormuz |
 
 ---
 
@@ -313,8 +380,11 @@ Le dollar reste proche de ses **plus bas niveaux depuis environ trois mois**, ma
 
 Les points suivants n'ont **pas pu être confirmés** avec certitude par une source primaire ou pleinement recoupés au moment de la rédaction et **ne doivent pas être considérés comme des faits établis** :
 
-- **Niveau exact du DAX 40 et du Nasdaq 100 en cours de séance ce vendredi matin** : les niveaux de futures (~26 178 pour le DAX, ~29 324 pour le Nasdaq 100) proviennent de sources uniques (Investing.com) et n'ont pas pu être recoupés avec une seconde source au moment de la rédaction ; à vérifier sur [investing.com/indices/germany-30-futures](https://www.investing.com/indices/germany-30-futures) et [investing.com/indices/nq-100-futures](https://www.investing.com/indices/nq-100-futures).
-- **Niveau exact et horaire précis du DXY ce vendredi matin** : seule la clôture du 20/08 (98,7599) a pu être recoupée ; aucune donnée intraday fiable pour le 21/08 matin n'était disponible au moment de la rédaction. À vérifier sur [tradingeconomics.com/united-states/currency](https://tradingeconomics.com/united-states/currency).
+- **Niveau exact des futures Nasdaq 100 (NQ) en cours de séance** : deux lectures divergentes ont été obtenues — **29 324,25 points (+0,08 %)** via une cotation directe Investing.com, et un **rebond de +0,7 %** (soit environ 29 400-29 420 points) rapporté par des commentateurs de marché en fin de matinée européenne. L'écart s'explique vraisemblablement par des heures de cotation différentes, mais n'a pas pu être totalement résolu. À vérifier en temps réel sur [investing.com/indices/nq-100-futures](https://www.investing.com/indices/nq-100-futures) et [cmegroup.com](https://www.cmegroup.com/markets/equities/nasdaq/e-mini-nasdaq-100.html).
+- **Niveau exact du cours de l'or ce vendredi** : trois lectures divergentes ont été relevées (4 540,18 $, 4 554,76 $ et 4 593,45 $ selon la source et l'heure) ; l'écart de plus de 50 $ n'a pas pu être résolu au moment de la rédaction. À vérifier sur [kitco.com/charts/gold](https://www.kitco.com/charts/gold) et [tradingeconomics.com/commodity/gold](https://tradingeconomics.com/commodity/gold).
+- **Positionnement institutionnel spécifique sur les futures NQ du CME** : aucune donnée COT CFTC actualisée sur les contrats E-mini Nasdaq-100 (positions des *asset managers* et *leveraged funds*) n'a pu être obtenue au moment de la rédaction ; l'analyse de positionnement de la section 11.5 repose donc sur des indicateurs indirects (VIX, base futures/cash, flux sectoriels) et non sur des données de positionnement vérifiées. À vérifier sur [cftc.gov/MarketReports/CommitmentsofTraders](https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm).
+- **Date exacte du roulement d'échéance NQU6 → NQZ6** : la semaine du 14 septembre 2026 est déduite de la convention standard du CME (troisième vendredi du mois de trimestre) et n'a pas été confirmée sur le calendrier officiel au moment de la rédaction. À vérifier sur [cmegroup.com — calendrier E-mini Nasdaq-100](https://www.cmegroup.com/markets/equities/nasdaq/e-mini-nasdaq-100.calendar.html).
+- **Niveau de clôture du DAX ce vendredi** : seuls l'ouverture (26 280,86) et le range de séance (26 119,54-26 292,95) étaient disponibles au moment de la rédaction ; la clôture reste inconnue. À vérifier sur [investing.com/indices/germany-30](https://www.investing.com/indices/germany-30).
 - **US Treasury 2 ans et spread 2s10s précis** : la dernière donnée recoupée du 2 ans date du 13 août (4,15 %) ; le spread 2s10s de +52 pb provient d'une analyse de marché non datée avec précision et n'a pas pu être recoupé avec une seconde source. À vérifier sur [fred.stlouisfed.org/series/DGS2](https://fred.stlouisfed.org/series/DGS2).
 - **Bund allemand 10 ans** : la dernière donnée recoupée date du 19 août (~3,27 %) ; aucune mise à jour fiable pour le 20-21 août n'a pu être obtenue au moment de la rédaction. À vérifier sur [tradingeconomics.com/germany/government-bond-yield](https://tradingeconomics.com/germany/government-bond-yield).
 - **Modalités concrètes du plan d'« isolement économique » de Bessent** : l'annonce ne précise aucun mécanisme détaillé avant la conférence de presse prévue le 24 août ; à suivre sur [treasury.gov/ofac](https://ofac.treasury.gov/) et [home.treasury.gov](https://home.treasury.gov/).
@@ -325,6 +395,6 @@ Les points suivants n'ont **pas pu être confirmés** avec certitude par une sou
 
 ## Avertissement
 
-Ce document est un **rapport d'analyse macroéconomique à but informatif et pédagogique uniquement**. Il ne constitue **en aucun cas un conseil en investissement, une recommandation d'achat ou de vente, ni une sollicitation** à effectuer une quelconque opération financière. Les marchés financiers comportent des risques de perte en capital. Les scénarios et pondérations probabilistes présentés sont des estimations qualitatives et ne garantissent aucun résultat futur. Ce rapport a été rédigé vendredi 21 août 2026, en matinée européenne, avant la publication des PMI flash ; plusieurs niveaux de prix (indices actions, or, pétrole, dollar) reposent sur des données intraday ou des futures susceptibles d'évoluer rapidement (voir section 13), en particulier dans le contexte d'une situation géopolitique très instable autour de l'Iran et du détroit d'Ormuz. Avant toute décision d'investissement, consultez un conseiller financier agréé et vérifiez les données auprès des sources primaires citées, idéalement en temps réel.
+Ce document est un **rapport d'analyse macroéconomique à but informatif et pédagogique uniquement**. Il ne constitue **en aucun cas un conseil en investissement, une recommandation d'achat ou de vente, ni une sollicitation** à effectuer une quelconque opération financière. Les marchés financiers comportent des risques de perte en capital. Les instruments à effet de levier évoqués en section 11.5 (contrats à terme NQ/MNQ du CME) comportent un risque de perte **supérieur au capital engagé**. Les scénarios et pondérations probabilistes présentés sont des estimations qualitatives et ne garantissent aucun résultat futur. Ce rapport a été rédigé vendredi 21 août 2026 en matinée européenne, puis mis à jour en fin de matinée après la publication du PMI flash zone euro, mais **avant le PMI flash américain de 15h45 heure de Paris et avant l'ouverture de Wall Street** ; plusieurs niveaux de prix (indices actions, futures, or, pétrole, dollar) reposent sur des données intraday susceptibles d'évoluer rapidement et divergentes entre sources (voir section 13), en particulier dans le contexte d'une situation géopolitique très instable autour de l'Iran et du détroit d'Ormuz. Avant toute décision d'investissement, consultez un conseiller financier agréé et vérifiez les données auprès des sources primaires citées, idéalement en temps réel.
 
-*Rapport généré le 21 août 2026 à partir de recherches web. Toutes les sources sont citées en ligne ; les liens renvoient vers les pages consultées au moment de la rédaction.*
+*Rapport généré le 21 août 2026 à partir de recherches web, puis mis à jour en fin de matinée (heure de Paris) avec les données de marché plus fraîches et l'ajout d'une section 11.5 dédiée aux contrats à terme Nasdaq 100 du CME. Toutes les sources sont citées en ligne ; les liens renvoient vers les pages consultées au moment de la rédaction.*
