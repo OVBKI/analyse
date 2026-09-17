@@ -91,6 +91,18 @@ Le dollar a franchi le seuil de 100 pour la première fois depuis fin juillet, s
 
 **Détermination** : 🟢 **LONG** (biais tech spécifiquement, via la résilience relative du NQ et le gap premarket) au sein d'un contexte plus large 🟧 mixte compte tenu du ton hawkish de la Fed.
 
+### 📏 Indicateur de volatilité / Range
+
+| Indicateur | Valeur | Lecture | Source |
+|---|---|---|---|
+| **VXN (Nasdaq-100 Volatility Index)** | **~22,4** (range du 16/09 : 20,96-23,39 ; clôture veille 25,06) | Nettement au-dessus de la zone « calme » habituelle (15-20) — prime de volatilité encore élevée au lendemain du FOMC | [Investing.com](https://www.investing.com/indices/cboe-nasdaq-100-voltility) / [Cboe VXN](https://www.cboe.com/us/indices/dashboard/vxn/) |
+| **Range Globex overnight (NQ, nuit du 16 au 17/09)** | **~29 248 – 29 625 pts (~377 pts d'amplitude)** | Range déjà large avant même l'ouverture cash — digestion volatile du FOMC | [Investing.com Futures](https://www.investing.com/indices/nq-100-futures) |
+| **ATR quotidien estimé (NQ, proxy via QQQ ATR14)** | **~350-450 pts/jour** (ordre de grandeur, à vérifier en temps réel) | Cohérent avec un régime post-FOMC plus volatil que la moyenne récente | Estimation dérivée de [QQQ Technical Analysis](https://www.tipranks.com/etf/qqq/technical-analysis) |
+| **VIX → mouvement attendu 1 jour** | **~1,1 %** (VIX 17,71 / √252) ; options SPX pricent ~0,77 % jusqu'à ce soir, ~1,07 % jusqu'à vendredi | Sur un NQ ~29 000 pts, cela correspond à un **range attendu de l'ordre de 300-350 pts** sur la séance | [Saxo Bank Market Quick Take](https://www.home.saxo/content/articles/macro/market-quick-take---first-fed-hike-since-2023-lifts-the-dollar---17-september-2026-17092026) |
+| **MOVE Index (volatilité obligataire)** | **-3,6 % à 80,7** | Détente sur la vol taux alors que la vol actions (VIX/VXN) reste ferme — divergence à surveiller | [Saxo Bank](https://www.home.saxo/content/articles/macro/market-quick-take---first-fed-hike-since-2023-lifts-the-dollar---17-september-2026-17092026) |
+
+**Lecture pour le scalpeur** : le range attendu du jour se situe grossièrement entre **300 et 450 points sur le NQ**, avec un range overnight déjà conséquent (~377 pts). Une volatilité de ce niveau justifie d'élargir les stops/targets par rapport à une séance calme, et de rester prudent sur les premières minutes post-ouverture où le range peut être en grande partie déjà consommé par le mouvement Globex.
+
 ---
 
 ## 7. Magnificent 7 / Tech
@@ -176,6 +188,7 @@ Le contexte du jour combine : catalyseur macro majeur digéré la veille (FOMC),
 **DXY :** Bullish (~100,07-100,28, RSI en zone de surachat à 83,5)
 **US 10Y :** ~5,02 % (plus haut depuis juillet 2007)
 **VIX :** ~17,2-17,7 (contenu)
+**VXN / Range attendu :** VXN ~22,4 (au-dessus de la zone calme 15-20) ; range Globex overnight déjà à ~377 pts ; range journalier estimé ~300-450 pts
 **NQ Overnight :** Futures en hausse significative (magnitude à confirmer, entre +0,5 % et +1,2 %) ; NDX cash quasi stable hier (+0,02 %) malgré la chute du Dow (-1,21 %)
 
 **Catalyseur principal :** Digestion du ton hawkish de Kevin Warsh après la hausse de taux à 3,75-4,00 % (dot plot : 16/18 membres anticipent une nouvelle hausse en 2026, médiane 4,10 % fin d'année)
@@ -196,6 +209,7 @@ Le contexte du jour combine : catalyseur macro majeur digéré la veille (FOMC),
 - **Déclarations de membres de la Fed (Waller ou autres) postérieures à la décision du 16/09** : aucune trouvée avec certitude au moment de la rédaction.
 - **Clôtures précises Micron/SanDisk/SK Hynix du 16-17/09** : non confirmées.
 - **Niveaux intraday précis US 2Y/10Y et DXY du matin du 17/09** : seules des cotations ponctuelles ont pu être confirmées, pas de série intraday complète.
+- **ATR(14) précis du NQ** : non trouvé directement ; l'estimation de ~350-450 pts/jour est dérivée par conversion approximative de l'ATR(14) du QQQ (~10,17 pts, ratio ~41x) — à recalculer avec une donnée ATR native du NQ si disponible en plateforme.
 
 ---
 
@@ -215,6 +229,9 @@ Le contexte du jour combine : catalyseur macro majeur digéré la veille (FOMC),
 • LONG : tenue du gap après l'ouverture, reprise du VWAP, momentum IA/méga-caps qui se prolonge
 • SHORT : gap fill rapide, nouvelle poussée des yields et du dollar, actualité négative sur le capex IA
 • Publications Initial Jobless Claims + Philly Fed à 14h30 (45 min avant l'ouverture) — catalyseur de volatilité pré-marché
+
+**📏 Volatilité / Range attendu :**
+VXN ~22,4 (au-dessus de la zone calme 15-20) — range Globex overnight déjà ~377 pts, range journalier estimé ~300-450 pts. Volatilité au-dessus de la normale post-FOMC : élargir stops/targets, rester prudent sur les premières minutes.
 
 **⚠️ Risk Event :**
 Digestion du ton hawkish de la Fed (Kevin Warsh) et risque de poursuite de la hausse des rendements/du dollar (DXY en zone de surachat)
